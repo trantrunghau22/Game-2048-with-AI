@@ -32,7 +32,7 @@ Dự án này tái hiện trò chơi 2048 nổi tiếng với giao diện đồ 
     * 🌍 **Đa ngôn ngữ (Multi-language):** Hỗ trợ chuyển đổi linh hoạt giữa **Tiếng Việt** và **Tiếng Anh** ngay trong giao diện.
     * 🔊 **Tùy chỉnh Âm thanh:** Hệ thống Setting cho phép điều chỉnh âm lượng hoặc tắt/bật nhạc nền và hiệu ứng âm thanh.
     * 🛡️ **Error Handling:** Cơ chế bắt lỗi tự động giúp game vận hành mượt mà, không bị crash đột ngột.
-    * 🖼️ **Hình ảnh**:** Hình ảnh đa dạng, sinh động, chủ đề Shin-chan.
+    * 🖼️ **Hình ảnh:** Hình ảnh đa dạng, sinh động, chủ đề Shin-chan.
 
 ---
 
@@ -132,24 +132,8 @@ game_2048/
 └── README.md                # Tài liệu hướng dẫn
 ```
 
----
 
-## 👥 Tác giả:
 
-### HCMUS - GROUP THỢ ĐIỆN VIẾT CODE - 25CTT3
-
-| Thành viên | MSSV |
-| :--- | :--- |
-| Trần Trung Hậu | 25120188 |
-| Đào Khánh Băng | 25120162 |
-| Phạm Hoàng Tường An | 25120159 |
-| Ngô Bảo | 25120165 |
-| Vũ Gia Bảo | 25120168 |
-| Trần Phạm Đăng Duy | 25120138 |
-
-Giảng viên hướng dẫn thực hành: Thầy Lê Đức Khoan.
-
----
 
 <img width="1867" height="1347" alt="image" src="https://github.com/user-attachments/assets/aaa5e3ae-26d7-4ace-9886-9efaac3c5d4f" />
 
